@@ -1,6 +1,6 @@
 
-[![Build Status](https://travis-ci.org/codecov/example-android.svg?branch=master)](https://travis-ci.org/codecov/example-android)
-[![codecov.io](https://codecov.io/github/codecov/example-android/branch/master/graph/badge.svg)](https://codecov.io/github/codecov/example-android)
+[![Build Status](https://travis-ci.com/farhan-arshad-dev/jacoco-codecov-android.svg?branch=master)](https://travis-ci.com/farhan-arshad-dev/jacoco-codecov-android)
+[![codecov.io](https://codecov.io/github/farhan-arshad-dev/jacoco-codecov-android/branch/master/graph/badge.svg)](https://codecov.io/github/farhan-arshad-dev/jacoco-codecov-android)
 # [Codecov](https://codecov.io) Android Example
 ## Guide
 #### Travis Setup
