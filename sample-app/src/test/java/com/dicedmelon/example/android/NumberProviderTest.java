@@ -1,11 +1,9 @@
 package com.dicedmelon.example.android;
 
-import org.junit.Ignore;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@Ignore
 public class NumberProviderTest {
 
   @Test public void shouldProvideProperNumber() {
