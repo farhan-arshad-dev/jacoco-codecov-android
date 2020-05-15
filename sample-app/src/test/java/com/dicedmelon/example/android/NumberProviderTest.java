@@ -16,4 +16,15 @@ public class NumberProviderTest {
     // then
     assertThat(number).isEqualTo(42);
   }
+
+  @Test public void shouldProvideProperNumber1() {
+    // given
+    NumberProvider numberProvider = new NumberProvider();
+
+    // when
+    int number = numberProvider.provideNumber();
+
+    // then
+    assertThat(number).isEqualTo(42);
+  }
 }
